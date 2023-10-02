@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="main-page">
         <nav id="navbar">
           <h1 className="logo">
-            Job<span>Hunt</span>
+            Intern<span>Seek</span>
           </h1>
 
           <ul>
