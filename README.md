@@ -1,6 +1,6 @@
 # InternSeek Project Repository
 
-Welcome to the React.js project repository! This repository contains the source code for our awesome React.js application.
+Welcome to the InternSeek project repository! This repository contains the source code for our awesome React.js application.
 
 ## Getting Started
 
