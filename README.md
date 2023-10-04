@@ -1,4 +1,4 @@
-# React.js Project Repository
+# InternSeek Project Repository
 
 Welcome to the React.js project repository! This repository contains the source code for our awesome React.js application.
 
@@ -22,6 +22,8 @@ To get started with this project, follow these steps:
    git clone https://github.com/your-username/your-react-project.git
 
 ### Install Dependencies
-cd your-react-project
+cd your-react-project 
+<br>
 npm install
+<br>
 npm start
