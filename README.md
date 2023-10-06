@@ -22,8 +22,8 @@ To get started with this project, follow these steps:
    git clone https://github.com/your-username/your-react-project.git
 
 ### Install Dependencies
-cd your-react-project 
+<p>cd your-react-project</p>
 <br>
-npm install
+<p>npm i</p>
 <br>
-npm start
+<p>npm start</p>
