@@ -21,6 +21,8 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/your-username/your-react-project.git
 
+### Contributions are most welcomed
+
 ### Install Dependencies
 <p>cd your-react-project</p>
 <br>
